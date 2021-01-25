@@ -1,7 +1,7 @@
 pipeline {
     agent any
 
- 3    def tomcatWeb = 'C:\\tomcat\\webapps' 
+3    def tomcatWeb = 'C:\\tomcat\\webapps' 
 4    def tomcatBin = 'C:\\tomcat\\bin' 
 5    def mvnHome = 'C:\\maven' 
 6    def tomcatStatus = '' 
